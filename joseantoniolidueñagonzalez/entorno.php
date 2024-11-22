@@ -11,6 +11,10 @@
 <body>
     <div id="principal">
         <h1>JOSE ANTONIO LIDUEÑA GONZALEZ</h1>
+        <div>
+            <img src="img/nieve.jpg" alt="Foto de la nieve">
+        </div>
+        
         <?php
             echo "<h2>Examen DAM Entorno de Desarrollo. Suerte!</h2>";
         ?>
