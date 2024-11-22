@@ -8,7 +8,7 @@
 <link rel="stylesheet" href="css/estilo.css">
 </head>
 <body>
-<h1>NOMBRE COMPLETO DEL ALUMNO</h1>
+<h1>SERGIO ARJONA RAMIREZ</h1>
 <?php
 echo "<h2>Examen DAM Entorno de Desarrollo. Suerte!</h2>";
 ?>
